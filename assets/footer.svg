@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="150" viewBox="0 0 1100 150" role="img" aria-labelledby="t">
+<title id="t">Interfaces, ferramentas e experiências feitas para sair da ideia e ganhar vida.</title>
+<style>
+.f{font-family:'Segoe UI Variable Display','Segoe UI',-apple-system,BlinkMacSystemFont,Inter,Roboto,Arial,sans-serif}
+.m{font-family:'Cascadia Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+.wv{animation:wv 9s linear infinite}
+.wv2{animation-duration:13s;animation-direction:reverse}
+.wv3{animation-duration:17s}
+@keyframes wv{to{transform:translateX(-400px)}}
+.up{animation:up 1s cubic-bezier(.34,1.56,.64,1) both}
+@keyframes up{from{opacity:0;transform:translateY(12px)}}
+.beat{transform-box:fill-box;transform-origin:center;animation:beat 2.4s ease-in-out infinite}
+@keyframes beat{50%{transform:scale(1.6);opacity:.4}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<defs>
+<linearGradient id="fade"><stop stop-color="#fff" stop-opacity="0"/><stop offset=".2" stop-color="#fff"/><stop offset=".8" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<mask id="mk"><rect width="1100" height="150" fill="url(#fade)"/></mask>
+</defs>
+<g mask="url(#mk)" fill="none" stroke-width="1.5">
+<path class="wv" d="M0 60c100-28 100 28 200 0s100 28 200 0 100 28 200 0 100 28 200 0 100 28 200 0 100 28 200 0 100 28 200 0" stroke="#387bff" stroke-opacity=".55"/>
+<path class="wv wv2" d="M-400 68c100-20 100 20 200 0s100 20 200 0 100 20 200 0 100 20 200 0 100 20 200 0 100 20 200 0 100 20 200 0 100 20 200 0" stroke="#64d7ff" stroke-opacity=".35"/>
+<path class="wv wv3" d="M0 76c100-12 100 12 200 0s100 12 200 0 100 12 200 0 100 12 200 0 100 12 200 0 100 12 200 0 100 12 200 0" stroke="#8b6dff" stroke-opacity=".3"/>
+</g>
+<g class="f" text-anchor="middle">
+<text class="up" x="550" y="118" font-size="15" fill="#93a5bd">Interfaces, ferramentas e experiências feitas para sair da ideia e ganhar vida.</text>
+<g class="up" style="animation-delay:.2s"><circle class="beat" cx="472" cy="139" r="3" fill="#4c93ff"/><text class="m" x="556" y="143" font-size="11" fill="#5f7697" letter-spacing="2">ACEZERADEV · 2026</text></g>
+</g>
+</svg>

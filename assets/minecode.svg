@@ -1,13 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="550" height="260" viewBox="0 0 550 260">
-<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#121d2d"/><stop offset="1" stop-color="#0d1117"/></linearGradient></defs>
-<rect x="1" y="1" width="548" height="258" rx="18" fill="url(#bg)" stroke="#293c55"/>
-<g font-family="Segoe UI,Arial,sans-serif">
-<rect x="28" y="27" width="4" height="17" rx="2" fill="#83b2ff"/>
-<text x="42" y="40" font-size="11" fill="#83b2ff" letter-spacing="2">FERRAMENTAS + IA</text>
-<text x="28" y="94" font-size="29" font-weight="700" fill="#f0f6ff">MineCode Desktop</text>
-<g font-size="16" fill="#adbed2"><text x="28" y="132">A Mine programando no computador.</text><text x="28" y="156">Instaladores oficiais para Windows.</text></g>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="3 1 58 58" aria-hidden="true" x="400" y="53" width="110" height="110"><g stroke="#2FD483" stroke-linecap="round" stroke-linejoin="round"><path d="M32 9V15" stroke-width="3" /><circle cx="32" cy="6" r="3" fill="#2FD483" fill-opacity=".35" stroke-width="2.6" /><rect x="6" y="30" width="6" height="13" rx="2.6" fill="#2FD483" fill-opacity=".35" stroke-width="2.6" /><rect x="52" y="30" width="6" height="13" rx="2.6" fill="#2FD483" fill-opacity=".35" stroke-width="2.6" /><rect x="10" y="15" width="44" height="42" rx="14" fill="#13201A" stroke-width="3" /><rect x="16" y="23" width="32" height="26" rx="9" fill="#050807" stroke-width="2.6" /><path d="M23 30L29.5 36L23 42" fill="none" stroke-width="4" /><path d="M33 42H41" stroke-width="4" /><path d="M27.5 52.2Q32 55 36.5 52.2" fill="none" stroke-width="2.4" /></g></svg>
-<path d="M28 183h494" stroke="#293b52"/>
-<text x="28" y="210" font-size="13" fill="#8098b5">Desktop · Windows · IA</text>
-<text x="28" y="239" font-size="12" fill="#83b2ff" letter-spacing="1">EXPLORAR PROJETO ↗</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="550" height="260" viewBox="0 0 550 260"><style>
+.f{font-family:'Segoe UI Variable Display','Segoe UI',-apple-system,BlinkMacSystemFont,Inter,Roboto,Arial,sans-serif}
+.up{animation:up .9s cubic-bezier(.34,1.56,.64,1) both}
+@keyframes up{from{opacity:0;transform:translateY(16px)}}
+.logo{transform-box:fill-box;transform-origin:center;animation:in 1s cubic-bezier(.34,1.56,.64,1) .3s both,fl 6s ease-in-out 1.3s infinite}
+@keyframes in{from{opacity:0;transform:scale(.7) rotate(-8deg)}}
+@keyframes fl{50%{transform:translateY(-7px) rotate(2deg)}}
+.halo{transform-box:fill-box;transform-origin:center;animation:halo 6s ease-in-out infinite}
+@keyframes halo{50%{opacity:.45;transform:scale(1.12)}}
+.ring{stroke-dasharray:160 1400;animation:ring 7s linear infinite}
+@keyframes ring{to{stroke-dashoffset:-1560}}
+.rule{stroke-dasharray:494;animation:rule 1.2s cubic-bezier(.16,1,.3,1) .5s both}
+@keyframes rule{from{stroke-dashoffset:494}}
+.cta{animation:cta 2.4s ease-in-out infinite}
+@keyframes cta{50%{transform:translate(4px,-3px)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#121d2d"/><stop offset="1" stop-color="#0b0f16"/></linearGradient><linearGradient id="edge" x2="0" y2="1"><stop stop-color="#fff" stop-opacity=".16"/><stop offset="1" stop-color="#fff" stop-opacity=".03"/></linearGradient><radialGradient id="halo"><stop stop-color="#83b2ff" stop-opacity=".28"/><stop offset="1" stop-color="#83b2ff" stop-opacity="0"/></radialGradient><linearGradient id="ac"><stop stop-color="#83b2ff" stop-opacity="0"/><stop offset=".5" stop-color="#83b2ff"/><stop offset="1" stop-color="#83b2ff" stop-opacity="0"/></linearGradient></defs>
+<rect width="550" height="260" rx="20" fill="url(#bg)"/><circle class="halo" cx="455" cy="108" r="110" fill="url(#halo)"/><rect x=".5" y=".5" width="549" height="259" rx="19.5" fill="none" stroke="url(#edge)"/><rect class="ring" x=".5" y=".5" width="549" height="259" rx="19.5" fill="none" stroke="url(#ac)" stroke-width="1.5" stroke-linecap="round"/>
+<g class="f">
+<g class="up"><rect x="28" y="27" width="4" height="17" rx="2" fill="#83b2ff"/>
+<text x="42" y="40" font-size="11" fill="#83b2ff" letter-spacing="2">FERRAMENTAS + IA</text></g>
+<text class="up" style="animation-delay:.1s" x="28" y="94" font-size="29" font-weight="700" fill="#f0f6ff">MineCode Desktop</text>
+<g class="up" style="animation-delay:.2s" font-size="16" fill="#adbed2"><text x="28" y="132">A Mine programando no computador.</text><text x="28" y="156">Instaladores oficiais para Windows.</text></g>
+<g class="logo"><svg xmlns="http://www.w3.org/2000/svg" viewBox="3 1 58 58" aria-hidden="true" x="400" y="53" width="110" height="110"><g stroke="#2FD483" stroke-linecap="round" stroke-linejoin="round"><path d="M32 9V15" stroke-width="3" /><circle cx="32" cy="6" r="3" fill="#2FD483" fill-opacity=".35" stroke-width="2.6" /><rect x="6" y="30" width="6" height="13" rx="2.6" fill="#2FD483" fill-opacity=".35" stroke-width="2.6" /><rect x="52" y="30" width="6" height="13" rx="2.6" fill="#2FD483" fill-opacity=".35" stroke-width="2.6" /><rect x="10" y="15" width="44" height="42" rx="14" fill="#13201A" stroke-width="3" /><rect x="16" y="23" width="32" height="26" rx="9" fill="#050807" stroke-width="2.6" /><path d="M23 30L29.5 36L23 42" fill="none" stroke-width="4" /><path d="M33 42H41" stroke-width="4" /><path d="M27.5 52.2Q32 55 36.5 52.2" fill="none" stroke-width="2.4" /></g></svg></g>
+<path class="rule" d="M28 183h494" stroke="#293b52"/>
+<text class="up" style="animation-delay:.4s" x="28" y="210" font-size="13" fill="#8098b5">Desktop · Windows · IA</text>
+<g class="up" style="animation-delay:.5s"><g class="cta"><text x="28" y="239" font-size="12" fill="#83b2ff" letter-spacing="1">EXPLORAR PROJETO ↗</text></g></g>
 <text x="520" y="240" text-anchor="end" font-size="13" fill="#637c9d">/02</text></g></svg>
