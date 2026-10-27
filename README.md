@@ -1,33 +1,36 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Davi · AcezeraDev — Desenvolvimento web e desktop. Interfaces, inteligência artificial e experiências interativas." />
+  <img src="assets/banner.svg" width="100%" alt="Davi · AcezeraDev — Desenvolvimento web e desktop. Interfaces, IA e experiências interativas." />
 </p>
 
-### Olá, eu sou o Davi.
+<img src="assets/about.svg" width="100%" alt="Olá, eu sou o Davi. Crio aplicações para aprender, explorar e transformar ideias em ferramentas. Meu trabalho reúne interfaces web, aplicações desktop e inteligência artificial." />
 
-Desenvolvo aplicações web e desktop, com foco em interfaces interativas, inteligência artificial e experiências educacionais. Aqui compartilho projetos que vão de sites para marcas a ferramentas para criar e aprender.
-
-**[Conheça o Minerva ↗](https://minerva-liart.vercel.app)** &nbsp; · &nbsp; **[Explore meus projetos](https://github.com/AcezeraDev?tab=repositories)**
-
-<br />
-
-### Tecnologias
-
-**React · TypeScript · JavaScript · Node.js · PostgreSQL**  
-Vite, Tailwind CSS, GSAP e Three.js nas interfaces e experiências interativas.
+<p align="center">
+  <a href="https://minerva-liart.vercel.app"><b>Conheça o Minerva ↗</b></a> &nbsp; · &nbsp; <a href="https://github.com/AcezeraDev?tab=repositories"><b>Explore meus projetos ↗</b></a>
+</p>
 
 <br />
 
-### Projetos selecionados
-
-| Projeto | O que você encontra | Explore |
-| :--- | :--- | :--- |
-| **Minerva** | Plataforma educacional com IA, jogos, XP, progressão e desafios de aprendizagem. | [Aplicação ↗](https://minerva-liart.vercel.app) · [Código](https://github.com/AcezeraDev/MINERVA-SITE) |
-| **MineCode Desktop** | Aplicativo desktop para programar com a Mine. Repositório público de instaladores para Windows. | [Versões e downloads](https://github.com/AcezeraDev/minecode-releases/releases) |
-| **China Glass** | Site para máquinas da indústria do vidro, desenvolvido com React e TypeScript. | [Site ↗](https://site-beta-eight-21.vercel.app) · [Código](https://github.com/AcezeraDev/SITE-CHINAGLASS) |
-| **AlquiVerde · Kits Presente** | Site de kits de Natal com sabonetes vegetais, essências e cuidados naturais. | [Site ↗](https://alquiverde-kits-presente.vercel.app) · [Código](https://github.com/AcezeraDev/SITE-ALQUIVERDE-KITPRESENTE) |
+<img src="assets/technologies.svg" width="100%" alt="Tecnologias: React, TypeScript, JavaScript, Node.js, PostgreSQL, Vite, Tailwind CSS, GSAP e Three.js." />
 
 <br />
+<br />
 
----
+<img src="assets/projects-title.svg" width="100%" alt="Projetos selecionados — da ideia à tela" />
+
+<p align="center">
+  <a href="https://github.com/AcezeraDev/MINERVA-SITE"><img src="assets/minerva.svg" width="49%" alt="Minerva — plataforma educacional com IA, jogos, progressão e desafios. Explorar código." /></a>
+  <a href="https://github.com/AcezeraDev/minecode-releases"><img src="assets/minecode.svg" width="49%" alt="MineCode Desktop — a Mine programando no computador. Ver instaladores para Windows." /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/AcezeraDev/SITE-CHINAGLASS"><img src="assets/chinaglass.svg" width="49%" alt="China Glass — site para máquinas da indústria do vidro. React, TypeScript e Three.js. Explorar código." /></a>
+  <a href="https://github.com/AcezeraDev/SITE-ALQUIVERDE-KITPRESENTE"><img src="assets/alquiverde.svg" width="49%" alt="AlquiVerde — site de kits presente com sabonetes vegetais, essências e cuidados naturais. Explorar código." /></a>
+</p>
+
+<p align="center">
+  <b>Veja no navegador</b><br />
+  <a href="https://minerva-liart.vercel.app">Minerva ↗</a> &nbsp; · &nbsp; <a href="https://site-beta-eight-21.vercel.app">China Glass ↗</a> &nbsp; · &nbsp; <a href="https://alquiverde-kits-presente.vercel.app">AlquiVerde ↗</a>
+</p>
+
+<br />
 
 <p align="center"><sub>Interfaces, ferramentas e experiências feitas para sair da ideia e ganhar vida.</sub></p>
