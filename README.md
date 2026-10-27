@@ -10,7 +10,7 @@
 
 <br />
 
-<img src="assets/technologies.svg?v=logos-20261027" width="100%" alt="Tecnologias: React, TypeScript, JavaScript, Node.js, PostgreSQL, Vite, Tailwind CSS, GSAP e Three.js." />
+<img src="https://raw.githubusercontent.com/AcezeraDev/AcezeraDev/3c934bc8668f95e341abd86b3dc9c639587297f7/assets/technologies.svg" width="100%" alt="Tecnologias: React, TypeScript, JavaScript, Node.js, PostgreSQL, Vite, Tailwind CSS, GSAP e Three.js." />
 
 <br />
 <br />
@@ -30,12 +30,12 @@
 <img src="assets/projects-title.svg" width="100%" alt="Projetos selecionados — da ideia à tela" />
 
 <p align="center">
-  <a href="https://github.com/AcezeraDev/MINERVA-SITE"><img src="assets/minerva.svg?v=logos-20261027" width="49%" alt="Minerva — plataforma educacional com IA, jogos, progressão e desafios. Explorar código." /></a>
-  <a href="https://github.com/AcezeraDev/minecode-releases"><img src="assets/minecode.svg?v=logos-20261027" width="49%" alt="MineCode Desktop — a Mine programando no computador. Ver instaladores para Windows." /></a>
+  <a href="https://github.com/AcezeraDev/MINERVA-SITE"><img src="https://raw.githubusercontent.com/AcezeraDev/AcezeraDev/3c934bc8668f95e341abd86b3dc9c639587297f7/assets/minerva.svg" width="49%" alt="Minerva — plataforma educacional com IA, jogos, progressão e desafios. Explorar código." /></a>
+  <a href="https://github.com/AcezeraDev/minecode-releases"><img src="https://raw.githubusercontent.com/AcezeraDev/AcezeraDev/3c934bc8668f95e341abd86b3dc9c639587297f7/assets/minecode.svg" width="49%" alt="MineCode Desktop — a Mine programando no computador. Ver instaladores para Windows." /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/AcezeraDev/SITE-CHINAGLASS"><img src="assets/chinaglass.svg?v=logos-20261027" width="49%" alt="China Glass — site para máquinas da indústria do vidro. React, TypeScript e Three.js. Explorar código." /></a>
-  <a href="https://github.com/AcezeraDev/SITE-ALQUIVERDE-KITPRESENTE"><img src="assets/alquiverde.svg?v=logos-20261027" width="49%" alt="AlquiVerde — site de kits presente com sabonetes vegetais, essências e cuidados naturais. Explorar código." /></a>
+  <a href="https://github.com/AcezeraDev/SITE-CHINAGLASS"><img src="https://raw.githubusercontent.com/AcezeraDev/AcezeraDev/3c934bc8668f95e341abd86b3dc9c639587297f7/assets/chinaglass.svg" width="49%" alt="China Glass — site para máquinas da indústria do vidro. React, TypeScript e Three.js. Explorar código." /></a>
+  <a href="https://github.com/AcezeraDev/SITE-ALQUIVERDE-KITPRESENTE"><img src="https://raw.githubusercontent.com/AcezeraDev/AcezeraDev/3c934bc8668f95e341abd86b3dc9c639587297f7/assets/alquiverde.svg" width="49%" alt="AlquiVerde — site de kits presente com sabonetes vegetais, essências e cuidados naturais. Explorar código." /></a>
 </p>
 
 <p align="center">
