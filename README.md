@@ -35,7 +35,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/AcezeraDev/SITE-CHINAGLASS"><img src="https://raw.githubusercontent.com/AcezeraDev/AcezeraDev/3c934bc8668f95e341abd86b3dc9c639587297f7/assets/chinaglass.svg" width="49%" alt="China Glass — site para máquinas da indústria do vidro. React, TypeScript e Three.js. Explorar código." /></a>
-  <a href="https://github.com/AcezeraDev/SITE-ALQUIVERDE-KITPRESENTE"><img src="https://raw.githubusercontent.com/AcezeraDev/AcezeraDev/3c934bc8668f95e341abd86b3dc9c639587297f7/assets/alquiverde.svg" width="49%" alt="AlquiVerde — site de kits presente com sabonetes vegetais, essências e cuidados naturais. Explorar código." /></a>
+  <a href="https://github.com/AcezeraDev/SITE-ALQUIVERDE-KITPRESENTE"><img src="https://raw.githubusercontent.com/AcezeraDev/AcezeraDev/0567d5491df7c9efeb260d89365ee2b5a44034eb/assets/alquiverde.svg" width="49%" alt="AlquiVerde — site de kits presente com sabonetes vegetais, essências e cuidados naturais. Explorar código." /></a>
 </p>
 
 <p align="center">
