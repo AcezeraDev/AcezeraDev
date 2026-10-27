@@ -42,9 +42,4 @@
 
 <br />
 
-<img src="assets/crew.svg" width="100%" alt="Meu time de código: ChatGPT para ideias e pesquisa, Claude para código e design, GitHub para versionamento e deploy." />
-
-<br />
-<br />
-
 <img src="assets/footer.svg" width="100%" alt="Interfaces, ferramentas e experiências feitas para sair da ideia e ganhar vida." />
