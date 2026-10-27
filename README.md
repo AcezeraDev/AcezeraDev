@@ -15,6 +15,18 @@
 <br />
 <br />
 
+<p align="center"><b>Código, versionamento e IA</b></p>
+
+<p align="center">
+  <a href="https://github.com/AcezeraDev"><img src="assets/github.jpeg" width="64" height="64" alt="GitHub" /></a> &nbsp; &nbsp;
+  <a href="https://github.com/AcezeraDev?tab=repositories"><img src="assets/code.jpeg" width="64" height="64" alt="Código e desenvolvimento" /></a> &nbsp; &nbsp;
+  <a href="https://git-scm.com"><img src="assets/git.jpeg" width="64" height="64" alt="Git" /></a> &nbsp; &nbsp;
+  <a href="https://claude.ai"><img src="assets/claude.jpeg" width="64" height="64" alt="Claude" /></a>
+</p>
+<p align="center"><sub>GitHub &nbsp; · &nbsp; Código &nbsp; · &nbsp; Git &nbsp; · &nbsp; Claude</sub></p>
+
+<br />
+
 <img src="assets/projects-title.svg" width="100%" alt="Projetos selecionados — da ideia à tela" />
 
 <p align="center">
