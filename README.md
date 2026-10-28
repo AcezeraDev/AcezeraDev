@@ -13,8 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/about-main.svg" width="66%" alt="Olá, eu sou o Davi. Crio aplicações para aprender, explorar e transformar ideias em ferramentas — web, desktop e IA." />
-  <img src="assets/about-now.svg" width="32.7%" alt="Agora: construindo. 4 projetos em destaque, entre web, desktop e IA. Fluxo de trabalho com GitHub, Git e Claude." />
+  <img src="assets/about.svg" width="100%" alt="Olá, eu sou o Davi. Crio aplicações para aprender, explorar e transformar ideias em ferramentas. Web, desktop e IA." />
 </p>
 
 <br />
